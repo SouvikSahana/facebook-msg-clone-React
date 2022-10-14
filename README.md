@@ -1,5 +1,5 @@
 # facebook-msg-clone-React
 
-### Requiremennts
+### Requirements
 
     React, react-flip-move, Firebase (database)
