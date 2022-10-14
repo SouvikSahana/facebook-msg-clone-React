@@ -1,0 +1,49 @@
+.message{
+    padding: -2px !important;
+    margin: 5px;
+    width: fit-content;
+    background-color: pink !important;
+    min-width: 15% !important;
+   max-width: 80% !important;
+   text-align: left;
+   border-radius: 5px 12px 12px 12px !important;
+}
+.message_user{
+    margin-left: auto;
+    color: red !important;
+    text-align: left !important;
+    background-color: rgb(104, 190, 224) !important;
+    border-radius: 12px 4px 12px 12px !important;
+    padding-top: 10px !important;
+}
+.msg_first{
+    padding: 0 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.msg_font{
+    font-size: 18px !important;
+}
+.user_name{
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 10px !important;
+    /* position: relative !important;
+    right: 40% !important;
+    color: aliceblue !important; */
+  text-align: left !important;
+  padding-top: 1px !important;
+}
+.time{
+    font-size: 10px;
+    color: white;
+    /* padding-left: 10px; */
+    float: right;
+    
+   margin: 8px !important;
+ 
+   
+}
+.message  p{
+    color: rgb(180, 68, 137) !important;
+}
